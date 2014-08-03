@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragmentsDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="searchButtonText">Get Quote</string>
+    <string name="searchTextHint">Stock Symbol</string>
+    <string-array name="symbols">
+        <item name="google">GOOGL</item>
+        <item name="apple">APPL</item>
+        <item name="microsoft">MSFT</item>
+        <item name="samsung">SSNLF</item>
+    </string-array>
+
+</resources>
